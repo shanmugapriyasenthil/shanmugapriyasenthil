@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Shanmuga+Priya+S;CSE+Student+%7C+Python+Developer;Building+scalable+and+efficient+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=FF1493&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Shanmuga+Priya+S;CSE+Student+%7C+Python+Developer;Building+scalable+and+efficient+solutions" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -11,11 +11,13 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **Wifi Sensing and ML**
-- 🌱 I’m currently learning **AI and ML**
-- 👯 I’m looking to collaborate on **Open Source React projects**
-- 💬 Ask me about **System Design, Frontend Architecture, and Node.js**
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/priya-senthilkumar/)**
+- 🔭 I’m currently working on **AI/ML, Wi-Fi Sensing, and Intelligent Systems**
+- 🌱 I’m currently learning **Generative AI, RAG, LLMs, and Machine Learning**
+- 👯 I’m looking to collaborate on **AI/ML, Full-Stack, and Open Source projects**
+- 💡 I’m interested in **Computer Vision, AI Agents, RAG Systems, and AI + IoT**
+- 💬 Ask me about **Python, Machine Learning, React, FastAPI, and AI Applications**
+- 🚀 I enjoy building **real-world AI solutions that combine software, data, and intelligent systems**
+- 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/priya-senthilkumar/)
 
 ---
 
@@ -31,26 +33,21 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shanmugapriyasenthil&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanmugapriyasenthil&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanmugapriyasenthil&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <!-- Note: Removed the count_private and include_all_commits parameters as they can sometimes cause timeouts/broken images -->
+  <img src="https://github-readme-stats.vercel.app/api?username=shanmugapriyasenthil&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanmugapriyasenthil&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 ---
 
 ### 🏆 Highlighted Projects
 
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| **[NutriSense](https://github.com/shanmugapriyasenthil/NutriSense)** | AI-powered nutrition application designed to help users make smarter food and dietary decisions. | `PHP` `AI` | [💻 Source Code](https://github.com/shanmugapriyasenthil/NutriSense) |
-| **[clustiq-1.0](https://github.com/shanmugapriyasenthil/clustiq-1.0)** | AI-powered customer segmentation platform that helps businesses understand their customers using clustering. | `Jupyter Notebook` `ML` `Python`| [💻 Source Code](https://github.com/shanmugapriyasenthil/clustiq-1.0) |
-| **[placemetGuide](https://github.com/shanmugapriyasenthil/placemetGuide)** | Guide which tracks the development and growth invested in self-learning sessions with provided materials. | `JavaScript` | [💻 Source Code](https://github.com/shanmugapriyasenthil/placemetGuide) |
-| **[IOB-Project](https://github.com/shanmugapriyasenthil/IOB-Project)** | My Hackathon Project. | `Hackathon` | [💻 Source Code](https://github.com/shanmugapriyasenthil/IOB-Project) |
+| Project | Tech Stack |
+|---------|------------|
+| **[NutriSense](https://github.com/shanmugapriyasenthil/NutriSense)** | `PHP` `AI` |
+| **[clustiq-1.0](https://github.com/shanmugapriyasenthil/clustiq-1.0)** | `Jupyter Notebook` `ML` `Python` |
+| **[placemetGuide](https://github.com/shanmugapriyasenthil/placemetGuide)** | `JavaScript` |
+| **[IOB-Project](https://github.com/shanmugapriyasenthil/IOB-Project)** | `Cyber Security` `Multi-Factor Authentication` `Hackathon` |
 
 ---
 
@@ -63,11 +60,4 @@
   <a href="https://github.com/shanmugapriyasenthil" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-</div>
-
-<br/>
-
-<!-- Profile Views Counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shanmugapriyasenthil&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
